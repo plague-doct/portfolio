@@ -1,5 +1,8 @@
 # Campbell Smith — portfolio
 
+Published with GitHub Pages from `main`. Push and it redeploys; there is
+no build step, so what is in the repo is what is served.
+
 Static site. No build step: open `index.html`, or serve the folder.
 
 ```
