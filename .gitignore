@@ -1,5 +1,7 @@
-# Build scratch — picker thumbnails and generated manifests.
-# Nothing in here is part of the published site.
+# Transient page renders from the PDF compression pass — large and
+# regenerable. Everything else in build/ is kept so the site can be
+# worked on from a machine without the original files.
+build/pdfpages/
 .work/
 
 # OS noise

@@ -1,0 +1,184 @@
+[
+  {
+    "project": "Accessible Products",
+    "slug": "accessible-products",
+    "section": "ui-ux",
+    "shots": 13,
+    "docs": 3
+  },
+  {
+    "project": "Slow Down Concept",
+    "slug": "slow-down-concept",
+    "section": "ui-ux",
+    "shots": 0,
+    "docs": 1
+  },
+  {
+    "project": "Enviro Remote",
+    "slug": "enviro-remote",
+    "section": "ui-ux",
+    "shots": 2,
+    "docs": 3
+  },
+  {
+    "project": "Calm Companions",
+    "slug": "calm-companions",
+    "section": "ui-ux",
+    "shots": 2,
+    "docs": 0
+  },
+  {
+    "project": "P5 JS Clock",
+    "slug": "p5-js-clock",
+    "section": "coding",
+    "shots": 7,
+    "docs": 0
+  },
+  {
+    "project": "Clown Launcher",
+    "slug": "clown-launcher",
+    "section": "coding",
+    "shots": 6,
+    "docs": 1
+  },
+  {
+    "project": "Aura Light",
+    "slug": "aura-light",
+    "section": "coding",
+    "shots": 1,
+    "docs": 0
+  },
+  {
+    "project": "The Foxhole Bookshop",
+    "slug": "the-foxhole-bookshop",
+    "section": "graphic-design",
+    "shots": 3,
+    "docs": 1
+  },
+  {
+    "project": "The Rocky Horror Picture Show Zine",
+    "slug": "the-rocky-horror-picture-show-zine",
+    "section": "graphic-design",
+    "shots": 6,
+    "docs": 2
+  },
+  {
+    "project": "AI and Photography Print",
+    "slug": "ai-and-photography-print",
+    "section": "graphic-design",
+    "shots": 2,
+    "docs": 1
+  },
+  {
+    "project": "Pen Recycling Program",
+    "slug": "pen-recycling-program",
+    "section": "graphic-design",
+    "shots": 2,
+    "docs": 4
+  },
+  {
+    "project": "Keith Haring Artist Study",
+    "slug": "keith-haring-artist-study",
+    "section": "graphic-design",
+    "shots": 2,
+    "docs": 0
+  },
+  {
+    "project": "Subvertisement",
+    "slug": "subvertisement",
+    "section": "graphic-design",
+    "shots": 0,
+    "docs": 1
+  },
+  {
+    "project": "Space",
+    "slug": "space",
+    "section": "photography",
+    "shots": 13,
+    "docs": 1
+  },
+  {
+    "project": "Time",
+    "slug": "time",
+    "section": "photography",
+    "shots": 12,
+    "docs": 1
+  },
+  {
+    "project": "Cult Of Dionysus",
+    "slug": "cult-of-dionysus",
+    "section": "photography",
+    "shots": 5,
+    "docs": 1
+  },
+  {
+    "project": "to be loved is to be changed",
+    "slug": "to-be-loved-is-to-be-changed",
+    "section": "photography",
+    "shots": 14,
+    "docs": 1
+  },
+  {
+    "project": "Life Force",
+    "slug": "life-force",
+    "section": "photography",
+    "shots": 28,
+    "docs": 1
+  },
+  {
+    "project": "Seed Project",
+    "slug": "seed-project",
+    "section": "3d-design",
+    "shots": 4,
+    "docs": 1
+  },
+  {
+    "project": "Connection",
+    "slug": "connection",
+    "section": "3d-design",
+    "shots": 30,
+    "docs": 1
+  },
+  {
+    "project": "The Wave",
+    "slug": "the-wave",
+    "section": "3d-design",
+    "shots": 6,
+    "docs": 1
+  },
+  {
+    "project": "Iterations 101",
+    "slug": "iterations-101",
+    "section": "3d-design",
+    "shots": 92,
+    "docs": 2
+  },
+  {
+    "project": "Data Self Portrait",
+    "slug": "data-self-portrait",
+    "section": "ai-exploration",
+    "shots": 0,
+    "docs": 2
+  },
+  {
+    "project": "ScareFactor",
+    "slug": "scarefactor",
+    "section": "ai-exploration",
+    "shots": 0,
+    "docs": 1
+  },
+  {
+    "project": "LociLine",
+    "slug": "lociline",
+    "section": "ai-exploration",
+    "shots": 0,
+    "docs": 1
+  },
+  {
+    "project": "Marbles",
+    "slug": "marbles",
+    "section": "one-offs",
+    "shots": 1,
+    "docs": 0
+  }
+]
