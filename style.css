@@ -530,6 +530,16 @@ a { color: inherit; }
   text-wrap: balance;
 }
 
+.project-desc { margin-top: 22px; }
+.project-desc p {
+  margin: 0 0 14px;
+  font-size: 18px;
+  line-height: 1.6;
+  max-width: 68ch;
+  color: var(--ink);
+}
+.project-desc p:last-child { margin-bottom: 0; }
+
 .project-body .page { padding-top: 48px; padding-bottom: 72px; }
 
 /* Masonry-ish: images keep their own proportions rather than being cropped,
