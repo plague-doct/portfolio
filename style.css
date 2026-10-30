@@ -419,6 +419,7 @@ a { color: inherit; }
   aspect-ratio: 410 / 300;
   overflow: hidden;
 }
+.disc-card-img img { width: 100%; height: 100%; object-fit: cover; }
 .disc-card-name {
   display: block;
   font-family: var(--font-display);
