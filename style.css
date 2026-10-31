@@ -366,6 +366,17 @@ a { color: inherit; }
   justify-content: center;
   gap: 12px;
 }
+/* Each pill takes the colour its band opens with, so it reads as a key to
+   that section. Sand text as on the band titles; the one-offs band is too
+   light for sand, so it takes ink. */
+.disc-nav .pill { color: var(--sand); }
+.disc-nav .pill[href="#ui-ux"]          { background: var(--rust); }
+.disc-nav .pill[href="#coding"]         { background: #8a6a1f; }
+.disc-nav .pill[href="#graphic-design"] { background: #3f6a56; }
+.disc-nav .pill[href="#photography"]    { background: #17565c; }
+.disc-nav .pill[href="#3d-design"]      { background: #2c3f31; }
+.disc-nav .pill[href="#ai-exploration"] { background: #6b6a38; }
+.disc-nav .pill[href="#one-offs"]       { background: #a98a2f; color: var(--ink); }
 
 /* Bands */
 .disc { position: relative; }
